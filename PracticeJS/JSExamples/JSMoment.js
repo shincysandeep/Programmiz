@@ -1,4 +1,3 @@
-
 var moment = require('moment-timezone');
 
 var june = moment("2014-06-01T12:00:00Z");
